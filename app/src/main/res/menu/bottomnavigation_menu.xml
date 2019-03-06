@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rv2"
+        android:icon="@drawable/ic_radio_black_24dp"
+        android:title="Radio Streaming" />
+    <item
+        android:id="@+id/rv1"
+        android:icon="@drawable/ic_videocam_black_24dp"
+        android:title="Video Streaming" />
+
+</menu>
